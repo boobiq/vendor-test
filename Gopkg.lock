@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/guregu/null"
   packages = ["."]
-  revision = "41961cea0328defc5f95c1c473f89ebf0d1813f6"
-  version = "v3.1"
+  revision = "a9db3ac26fcd2d70230a8dc6286d0c3694700003"
+  version = "v3"
 
 [[projects]]
   name = "github.com/julienschmidt/httprouter"
@@ -16,6 +16,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "bf9c446cb9ae70a758dd05b82b2c9a7f81513bbb0ac29aab78a2ba74a410fca8"
+  inputs-digest = "1cdecbf3cf80402cdb84eba1fd707f28ffda4737d50ee0f3769adb467418c3e4"
   solver-name = "gps-cdcl"
   solver-version = 1
